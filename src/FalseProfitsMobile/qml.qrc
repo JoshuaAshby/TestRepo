@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>SignupPage.qml</file>
+        <file>SignupPageForm.ui.qml</file>
+        <file>SignInPage.qml</file>
+        <file>SignInPageForm.ui.qml</file>
+        <file>SignOutPage.qml</file>
+        <file>MyUserProfileNavigation.qml</file>
+    </qresource>
+</RCC>
